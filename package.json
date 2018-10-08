@@ -1,0 +1,21 @@
+{
+  "name": "biiif-workshop",
+  "version": "1.0.0",
+  "description": "https://github.com/edsilv/biiif-workshop",
+  "main": "index.js",
+  "scripts": {
+	  "build": "biiif collection -u https://nvanderperren.github.io/biiif-workshop/collection -g",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvanderperren/biiif-workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nvanderperren/biiif-workshop/issues"
+  },
+  "homepage": "https://github.com/nvanderperren/biiif-workshop#readme"
+}
